@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.option{
+    color: darkblue;
+}
+  
+  .option:hover {
+    color: blue;
+    text-decoration: underline;
+  }
+  
